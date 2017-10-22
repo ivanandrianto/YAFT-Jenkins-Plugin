@@ -1,0 +1,37 @@
+.yaft_report_table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.yaft_report_table th {
+    border: 1px solid black;
+    padding: 0.6em;
+}
+
+.yaft_report_table td {
+    border: 1px solid black;
+    padding: 0.6em;
+}
+
+.yaft_report_sortable .headerSortDown {
+    background-color: #333;
+    color: #fff;
+}
+
+.yaft_report_sortable .headerSortUp {
+    background-color: #333;
+    color: #fff;
+}
+
+body {
+    padding: 20px;
+}
+
+.yaft_report_details_box {
+	padding: 20px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+	background-color: #ffffff
+}

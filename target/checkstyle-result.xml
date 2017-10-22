@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\FileUtil.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\report\Report.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\report\ReportDetailsContent.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="249" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\report\ReportInfo.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\report\Section.java">
+<error line="66" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\report\Vulnerability.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\ReportDetailsHtmlGenerator.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\ReportSummaryParser.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\YAFTPluginBuildAction.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\YAFTPluginDescriptor.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\YAFTPluginProjectAction.java">
+</file>
+<file name="C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\java\ivanandrianto\yaft_report\YAFTPluginPublisher.java">
+</file>
+</checkstyle>

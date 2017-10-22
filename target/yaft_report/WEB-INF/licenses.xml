@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='yaft_report' version='1.0.0-SNAPSHOT'><l:dependency name='YAFT Report Plugin' groupId='org.jenkins-ci.plugins' artifactId='yaft_report' version='1.0.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/yaft_report/'><l:description>Extend build and project page with extended results in XML format</l:description><l:license name='MIT' url='http://www.opensource.org/licenses/mit-license.php'/></l:dependency><l:dependency name='Apache Commons IO' groupId='commons-io' artifactId='commons-io' version='2.5' url='http://commons.apache.org/proper/commons-io/'><l:description>The Apache Commons IO library contains utility classes, stream implementations, file filters, 
+file comparators, endian transformation classes, and much more.</l:description><l:license name='Apache License, Version 2.0' url='http://www.apache.org/licenses/LICENSE-2.0.txt'/></l:dependency><l:dependency name='JSON in Java' groupId='org.json' artifactId='json' version='20140107' url='https://github.com/douglascrockford/JSON-java'><l:description>JSON is a light-weight, language independent, data interchange format.
+		See http://www.JSON.org/
+
+		The files in this package implement JSON encoders/decoders in Java.
+		It also includes the capability to convert between JSON and XML, HTTP
+		headers, Cookies, and CDL.
+
+		This is a reference implementation. There is a large number of JSON packages
+		in Java. Perhaps someday the Java community will standardize on one. Until
+		then, choose carefully.
+
+		The license includes this restriction: "The software shall be used for good,
+		not evil." If your conscience cannot live with that, then choose a different
+		package.
+
+		The package compiles on Java 1.2 thru Java 1.4.</l:description><l:license name='The JSON License' url='http://json.org/license.html'/></l:dependency><l:dependency name='JSON.simple' groupId='com.googlecode.json-simple' artifactId='json-simple' version='1.1' url='http://code.google.com/p/json-simple/'><l:description>A simple Java toolkit for JSON</l:description><l:license name='The Apache Software License, Version 2.0' url='http://www.apache.org/licenses/LICENSE-2.0.txt'/></l:dependency><l:dependency name='Apache Commons Collections' groupId='org.apache.commons' artifactId='commons-collections4' version='4.1' url='http://commons.apache.org/proper/commons-collections/'><l:description>The Apache Commons Collections package contains types that extend and augment the Java Collections Framework.</l:description><l:license name='Apache License, Version 2.0' url='http://www.apache.org/licenses/LICENSE-2.0.txt'/></l:dependency></l:dependencies>

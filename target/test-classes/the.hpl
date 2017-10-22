@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: yaft_report
+Long-Name: YAFT Report Plugin
+Url: http://jenkins-ci.org/plugin/yaft_report/
+Plugin-Version: 1.0.0-SNAPSHOT (private-10/23/2017 03:14-ivanandrianto)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: Ivan Andrianto:ivanandrianto:andrianto.ivan@yahoo.c
+ o.id
+Libraries: C:\Users\ivanandrianto\Downloads\YAFT Reports\target\classe
+ s,C:\Users\ivanandrianto\.m2\repository\com\googlecode\json-simple\js
+ on-simple\1.1\json-simple-1.1.jar,C:\Users\ivanandrianto\.m2\reposito
+ ry\org\apache\commons\commons-collections4\4.1\commons-collections4-4
+ .1.jar,C:\Users\ivanandrianto\.m2\repository\commons-io\commons-io\2.
+ 5\commons-io-2.5.jar,C:\Users\ivanandrianto\.m2\repository\org\json\j
+ son\20140107\json-20140107.jar
+Resource-Path: C:\Users\ivanandrianto\Downloads\YAFT Reports\src\main\
+ webapp
+
